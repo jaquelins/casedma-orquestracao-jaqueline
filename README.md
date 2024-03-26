@@ -1,2 +1,2 @@
 # casedma-orquestracao-jaqueline
-Estudo de caso orquestrção
+Estudo de caso orquestração
