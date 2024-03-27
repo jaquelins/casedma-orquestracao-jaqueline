@@ -1,2 +1,2 @@
-# casedma-orquestracao-jaqueline
-Estudo de caso orquestração
+# casedma-orquestracao
+Repostório para gerenciamento de deploy dos artefatos de orquestração do case de Data Mesh
